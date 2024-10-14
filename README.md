@@ -1,5 +1,5 @@
 ---
-title: First CNN App
+title: First ViT App
 emoji: 🏃
 colorFrom: pink
 colorTo: yellow
